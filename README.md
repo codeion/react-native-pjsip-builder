@@ -18,6 +18,9 @@ cd react-native-pjsip-builder; ./build_android
 ```
 
 ## Build for iOS
-```
-TODO: Will be available soon.
+
+The iOS build is provided by https://github.com/VoIPGRID/Vialer-pjsip-iOS
+
+```bash
+./build_ios.sh
 ```

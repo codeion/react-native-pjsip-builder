@@ -2,5 +2,6 @@ dist
 android-dist
 ios-dist
 .vagrant
+.idea
 .DS_Store
 *.tar.gz
