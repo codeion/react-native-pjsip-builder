@@ -10,6 +10,5 @@ Provided by https://github.com/VoiSmart/pjsip-android-builder
 
 Provided by https://github.com/VoIPGRID/Vialer-pjsip-iOS
 
-```bash
-./build_ios.sh
-```
+## PJSIP settings
+- PJSUA_MAX_ACC = 8
