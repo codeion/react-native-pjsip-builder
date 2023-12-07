@@ -1,7 +1,8 @@
 # react-native-pjsip-builder
 
 ## Build for Android
-#### pjsip 2.11
+#### pjsip 2.12.1
+#### NDK r23b
 
 Provided by https://github.com/VoiSmart/pjsip-android-builder
 
